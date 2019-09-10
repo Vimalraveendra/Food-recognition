@@ -44,7 +44,9 @@ class App extends Component {
    	 .then(response=>this.setState({
       foods:response.outputs[0].data.concepts
       }))
-     .catch(err=>err)
+     .catch(err=>{
+      this.setState({error:'Sorry! Please enter a valid url'})
+     })
     this.setState({input:''})
    }else{
    this.setState({error:'Sorry! Please enter a valid url'})

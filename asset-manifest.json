@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Food-recognition/static/css/main.e9dade4f.chunk.css",
-    "main.js": "/Food-recognition/static/js/main.0a554936.chunk.js",
-    "main.js.map": "/Food-recognition/static/js/main.0a554936.chunk.js.map",
+    "main.css": "/Food-recognition/static/css/main.8818d86e.chunk.css",
+    "main.js": "/Food-recognition/static/js/main.5c9122b2.chunk.js",
+    "main.js.map": "/Food-recognition/static/js/main.5c9122b2.chunk.js.map",
     "runtime~main.js": "/Food-recognition/static/js/runtime~main.dcd37c57.js",
     "runtime~main.js.map": "/Food-recognition/static/js/runtime~main.dcd37c57.js.map",
     "static/css/2.31dafeb2.chunk.css": "/Food-recognition/static/css/2.31dafeb2.chunk.css",
     "static/js/2.79a25f5d.chunk.js": "/Food-recognition/static/js/2.79a25f5d.chunk.js",
     "static/js/2.79a25f5d.chunk.js.map": "/Food-recognition/static/js/2.79a25f5d.chunk.js.map",
     "index.html": "/Food-recognition/index.html",
-    "precache-manifest.8f47e9e9c2babcafbd9a059424153f3c.js": "/Food-recognition/precache-manifest.8f47e9e9c2babcafbd9a059424153f3c.js",
+    "precache-manifest.d27e0b35b8af77bfbbdc21f4369f528e.js": "/Food-recognition/precache-manifest.d27e0b35b8af77bfbbdc21f4369f528e.js",
     "service-worker.js": "/Food-recognition/service-worker.js",
     "static/css/2.31dafeb2.chunk.css.map": "/Food-recognition/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.e9dade4f.chunk.css.map": "/Food-recognition/static/css/main.e9dade4f.chunk.css.map"
+    "static/css/main.8818d86e.chunk.css.map": "/Food-recognition/static/css/main.8818d86e.chunk.css.map"
   }
 }

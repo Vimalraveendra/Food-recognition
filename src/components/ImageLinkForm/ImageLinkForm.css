@@ -18,6 +18,10 @@ background-size: 60px 60px;
 input:focus{
 	outline: none;
 }
+
+button:focus{
+	outline: none;
+}
 @media screen and (max-width:400px) {
 	
 	.styles{

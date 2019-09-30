@@ -39,18 +39,18 @@ class App extends Component {
    onSubmit =()=>{
     
    	this.setState({imageUrl:this.state.input})
-    if(this.state.input){
    	 app.models.predict(  Clarifai.FOOD_MODEL, this.state.input)
-   	 .then(response=>this.setState({
+   	 .then(response=>{
+      if(response){
+        this.setState({
       foods:response.outputs[0].data.concepts
-      }))
+      })
+     }    
+   })
      .catch(err=>{
       this.setState({error:'Sorry! Please enter a valid url'})
      })
-    this.setState({input:''})
-   }else{
-   this.setState({error:'Sorry! Please enter a valid url'})
- }
+    this.setState({input:''}) 
 }
 
   render() {

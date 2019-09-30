@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d021bed464384c4bbd36b0c168550945",
+    "revision": "2a337385394e7859b603468e7f09de49",
     "url": "/Food-recognition/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Food-recognition/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "e17fee034fefb42b5205",
+    "revision": "95244aea3eb3a8d261d2",
     "url": "/Food-recognition/static/css/main.bd5fe51e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Food-recognition/static/js/2.79a25f5d.chunk.js"
   },
   {
-    "revision": "e17fee034fefb42b5205",
-    "url": "/Food-recognition/static/js/main.5c9122b2.chunk.js"
+    "revision": "95244aea3eb3a8d261d2",
+    "url": "/Food-recognition/static/js/main.4ce8152a.chunk.js"
   },
   {
     "revision": "db15f45f29fe8e49e705",

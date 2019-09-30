@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Food-recognition/static/css/main.bd5fe51e.chunk.css",
-    "main.js": "/Food-recognition/static/js/main.5c9122b2.chunk.js",
-    "main.js.map": "/Food-recognition/static/js/main.5c9122b2.chunk.js.map",
+    "main.js": "/Food-recognition/static/js/main.4ce8152a.chunk.js",
+    "main.js.map": "/Food-recognition/static/js/main.4ce8152a.chunk.js.map",
     "runtime~main.js": "/Food-recognition/static/js/runtime~main.dcd37c57.js",
     "runtime~main.js.map": "/Food-recognition/static/js/runtime~main.dcd37c57.js.map",
     "static/css/2.31dafeb2.chunk.css": "/Food-recognition/static/css/2.31dafeb2.chunk.css",
     "static/js/2.79a25f5d.chunk.js": "/Food-recognition/static/js/2.79a25f5d.chunk.js",
     "static/js/2.79a25f5d.chunk.js.map": "/Food-recognition/static/js/2.79a25f5d.chunk.js.map",
     "index.html": "/Food-recognition/index.html",
-    "precache-manifest.1846e9030ad86b8471d7020bc970a6b6.js": "/Food-recognition/precache-manifest.1846e9030ad86b8471d7020bc970a6b6.js",
+    "precache-manifest.bb6add2fd26cb28b7a1b5eeca2ac5580.js": "/Food-recognition/precache-manifest.bb6add2fd26cb28b7a1b5eeca2ac5580.js",
     "service-worker.js": "/Food-recognition/service-worker.js",
     "static/css/2.31dafeb2.chunk.css.map": "/Food-recognition/static/css/2.31dafeb2.chunk.css.map",
     "static/css/main.bd5fe51e.chunk.css.map": "/Food-recognition/static/css/main.bd5fe51e.chunk.css.map"

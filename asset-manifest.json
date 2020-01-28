@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Food-recognition/static/css/main.bd5fe51e.chunk.css",
-    "main.js": "/Food-recognition/static/js/main.4ce8152a.chunk.js",
-    "main.js.map": "/Food-recognition/static/js/main.4ce8152a.chunk.js.map",
-    "runtime~main.js": "/Food-recognition/static/js/runtime~main.dcd37c57.js",
-    "runtime~main.js.map": "/Food-recognition/static/js/runtime~main.dcd37c57.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/Food-recognition/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.79a25f5d.chunk.js": "/Food-recognition/static/js/2.79a25f5d.chunk.js",
-    "static/js/2.79a25f5d.chunk.js.map": "/Food-recognition/static/js/2.79a25f5d.chunk.js.map",
+    "main.css": "/Food-recognition/static/css/main.ee0b6d7d.chunk.css",
+    "main.js": "/Food-recognition/static/js/main.647c721d.chunk.js",
+    "main.js.map": "/Food-recognition/static/js/main.647c721d.chunk.js.map",
+    "runtime~main.js": "/Food-recognition/static/js/runtime~main.5a1ef5a7.js",
+    "runtime~main.js.map": "/Food-recognition/static/js/runtime~main.5a1ef5a7.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Food-recognition/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.0ad5973e.chunk.js": "/Food-recognition/static/js/2.0ad5973e.chunk.js",
+    "static/js/2.0ad5973e.chunk.js.map": "/Food-recognition/static/js/2.0ad5973e.chunk.js.map",
     "index.html": "/Food-recognition/index.html",
-    "precache-manifest.bb6add2fd26cb28b7a1b5eeca2ac5580.js": "/Food-recognition/precache-manifest.bb6add2fd26cb28b7a1b5eeca2ac5580.js",
+    "precache-manifest.0ddaba21855053573eaafa7e2b1d6c10.js": "/Food-recognition/precache-manifest.0ddaba21855053573eaafa7e2b1d6c10.js",
     "service-worker.js": "/Food-recognition/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/Food-recognition/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.bd5fe51e.chunk.css.map": "/Food-recognition/static/css/main.bd5fe51e.chunk.css.map"
+    "static/css/2.eb45ad44.chunk.css.map": "/Food-recognition/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.ee0b6d7d.chunk.css.map": "/Food-recognition/static/css/main.ee0b6d7d.chunk.css.map"
   }
 }
